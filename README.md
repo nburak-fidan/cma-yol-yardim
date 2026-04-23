@@ -7,13 +7,12 @@ Bu klasör, CMA Yol Yardım web sitesinin düz HTML/CSS versiyonunu içerir. Git
 ```
 static-site/
 ├── index.html          # Ana HTML dosyası
-├── favicon.ico         # Site ikonu
 ├── css/
 │   └── style.css       # Tüm stiller
 ├── js/
 │   └── main.js         # JavaScript fonksiyonları
 ├── img/
-│   ├── cekicilogo.svg  # Logo
+│   ├── cmayolyardimlogo.svg  # Logo & Favicon
 │   ├── herowebp.webp   # Hero arka plan
 │   └── cekiciweb*.webp # Diğer görseller
 └── video/
